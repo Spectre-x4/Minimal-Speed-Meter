@@ -4,6 +4,8 @@ Minimal Internet Speed Meter
 A lightweight, transparent, and draggable desktop widget that displays real-time upload and download speeds. 
 Built with Python and PyQt5, it runs quietly in the background with a system tray icon and remembers its last position.
 
+Direct Download Link : https://raw.githubusercontent.com/Spectre-x4/Minimal-Speed-Meter/refs/heads/main/dist/speedometer.exe
+
 ----------------------------------------------------
 FEATURES
 ----------------------------------------------------
