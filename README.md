@@ -29,7 +29,7 @@ REQUIREMENTS
 INSTALLATION
 ----------------------------------------------------
 1. Clone the repository:
-   git clone https://github.com/YOUR-USERNAME/Minimal-Speed-Meter.git
+   git clone https://github.com/Spectre-x4/Minimal-Speed-Meter.git
    cd Minimal-Speed-Meter
 
 2. Install dependencies:
